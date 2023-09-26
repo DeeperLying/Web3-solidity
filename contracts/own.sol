@@ -17,5 +17,5 @@ contract Counter {
         return counter;
     }
 
-    //1
+    //Remix ide
 }
