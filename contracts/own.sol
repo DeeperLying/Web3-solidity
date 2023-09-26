@@ -16,4 +16,6 @@ contract Counter {
     function getCount() public view returns (uint) {
         return counter;
     }
+
+    //1
 }
